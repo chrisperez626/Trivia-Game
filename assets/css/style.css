@@ -1,0 +1,12 @@
+body{
+    background-image: url("../images/51ig8f-XiwL._SX318_BO1,204,203,200_.jpg");
+}
+div, header{
+    background: pink;
+}
+.wrapper, header{
+    width: 40%;
+}
+.firstQuestion{
+    border-width: 20px;
+}
