@@ -27,7 +27,7 @@ function timeDecrease(){
 
         minutes = 1;
 
-        seconds = 1;
+        seconds = 60;
     }
 
 }
@@ -36,4 +36,6 @@ function timeUp(){
     clearInterval(intervalId);
 }
 
-timeGo();
+$("#submitButton").click(function(){
+    console.log("nigger")
+})
