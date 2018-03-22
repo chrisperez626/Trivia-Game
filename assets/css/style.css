@@ -10,3 +10,9 @@ div, header{
 .firstQuestion{
     border-width: 20px;
 }
+#Timer{
+    float: right;
+    padding: 10px;
+    background: red;
+    color: blue;
+}
